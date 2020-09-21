@@ -2,8 +2,8 @@
 This R code is a simple example of finding the best fit multiple regression of covariates on days delinquent. The outputs if using demoData should be below.
 
 Credit Score: As credit score increases by one, we can expect days delinquent to decrease by .73
-City: Categorical values are a bit different. Here we say that if the loan is originated in Westland, we would it expect it to be around 56 days more delinquent.
-We can conclude that these are likely the two best predictors of delinquency.
+City: If the loan is originated in Westland, we would it expect it to be around 56 days more delinquent.
+These are likely the two best predictors of delinquency.
 
 View(demoData)
 > library(readr)
