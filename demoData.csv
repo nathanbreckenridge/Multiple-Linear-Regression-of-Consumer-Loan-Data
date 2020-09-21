@@ -1,0 +1,11 @@
+﻿Loan.Id.Number,Loan.Type.Description,Is.Delinquent,Interest.Rate,Originiation.Date,Original.Credit.Score,LTV.Original,Days.Delinquent,City
+1,AUTO,TRUE,0.01,01/01/08,650,1.2,69,Eastland
+2,AUTO,FALSE,0.01,01/01/10,705,0.9,4,Eastland
+3,AUTO,TRUE,0.03,01/02/09,605,1.5,120,Westland
+4,AUTO,TRUE,0.01,05/24/12,610,1.3,75,Eastland
+5,AUTO,FALSE,0.03,01/04/11,720,0.85,10,Eastland
+6,AUTO,TRUE,0.02,05/05/14,615,1.35,65,Eastland
+7,AUTO,FALSE,0.03,04/05/14,680,1.15,14,Eastland
+8,AUTO,TRUE,0.02,03/04/12,580,1.5,150,Westland
+9,AUTO,FALSE,0.02,01/01/07,710,0.95,15,Eastland
+10,AUTO,TRUE,0.03,01/01/14,560,1.6,200,Westland
